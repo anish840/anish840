@@ -31,5 +31,7 @@ A passionate developer from INDIA. 🌍
 
 ### 📊 GitHub Stats:
 ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anish840&show_icons=true&theme=dark)
-![Profile Views](https://komarev.com/ghpvc/?username=anish840&style=flat-square&color=blue)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anish840&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=anish840&style=flat-square&color=blue)
