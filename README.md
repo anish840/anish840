@@ -13,7 +13,7 @@ A passionate developer from INDIA. 🌍
 
 ### 🌐 Connect with Me:
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/_im_anish)
+[![X](https://img.shields.io/badge/-1DA1F2?logo=x&logoColor=white)](https://x.com/_im_anish)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/anishkumar840)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/anish840)
 
