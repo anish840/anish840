@@ -3,7 +3,7 @@
 A passionate developer from INDIA. 🌍
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on **DSA**
+- 🔭 I’m currently studying
 - 🌱 I’m currently learning **Blockchain, React**
 - 👯 I’m looking to collaborate on **open-source blockchain and Python projects**
 - 💬 Ask me about **Python, Java, Django, Selenium, Blockchain**
