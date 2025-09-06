@@ -4,9 +4,9 @@ A passionate developer from INDIA. 🌍
 
 ### 🚀 About Me:
 - 🔭 I’m currently studying
-- 🌱 I’m currently learning **Blockchain, React**
+- 🌱 I’m currently learning **n8n, React, Vibe Coding**
 - 👯 I’m looking to collaborate on **open-source blockchain and Python projects**
-- 💬 Ask me about **Python, Java, Django, Selenium, Blockchain**
+- 💬 Ask me about **Python, Java, Django, Selenium, React**
 - ⚡ Fun fact: I love listening **music**, **cooking**, and playing **chess**!
 
 ---
